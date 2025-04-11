@@ -19,7 +19,9 @@ There are two cellprofiler project files.
 
 
 ## Matlab file:
-*SHRUMS_Wrangling.m* Performs the data wrangling of the output from the cellprofiler pipeline in Matlab
+*SHRUMS_Wrangling_4_channels.m* Performs the data wrangling of the output from the 4 channel cellprofiler pipeline in Matlab
+*SHRUMS_Wrangling_5_channels.m* Performs the data wrangling of the output from the 5 channel cellprofiler pipeline in Matlab
 
 ## Jupyter Notebook File:
-*SHRUMS_Wrangling.ipynb* Performs the data wrangling of the output from the cellprofiler pipeline in python
+*SHRUMS_Wrangling_4_channels.ipynb* Performs the data wrangling of the output from the 4 channel cellprofiler pipeline in python
+*SHRUMS_Wrangling_5_channels.ipynb* Performs the data wrangling of the output from the 5 channel cellprofiler pipeline in python
